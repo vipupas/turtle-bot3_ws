@@ -8,7 +8,7 @@ A TurtleBot3 Waffle robot navigates autonomously to goals while avoiding obstacl
 
 ## Demo
 
-> Full demonstration video: [Link to YouTube/Drive/Loom recording]
+> Full demonstration video: [[video link](https://youtu.be/9oqLiq60k0Y)]
 
 ---
 
