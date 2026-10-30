@@ -150,8 +150,8 @@ turtle_pkg/
 
 ## 📸 Screenshot of Mapping and Navigation
 
-![Alt text](turtle-bot3_ws/img/img1.png)
-![Alt text](turtle-bot3_ws/img/img2.png)
+![Alt text](img/img1.png)
+![Alt text](img/img2.png)
 
 
 ## Troubleshooting
