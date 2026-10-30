@@ -148,6 +148,12 @@ turtle_pkg/
 
 ---
 
+## 📸 Screenshot of Mapping and Navigation
+
+![Alt text](turtle-bot3_ws/img/img1.png)
+![Alt text](turtle-bot3_ws/img/img2.png)
+
+
 ## Troubleshooting
 
 **Gazebo crashes or `Entity [waffle] already exists`.** A previous Gazebo is still running. Stop it and relaunch:
