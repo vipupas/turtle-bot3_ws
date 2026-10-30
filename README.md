@@ -123,6 +123,14 @@ Stop all of the above, rebuild (`colcon build --symlink-install`), and use the Q
 
 ---
 
+## In RViz
+##### It is setting initial postion
+1. Click <b>"2D Pose Estimate"</b> and click on the robot's actual location as in gazebo (<i>make sure lidar reading match to map</i>) .<br>
+
+##### It is setting goal position</i><br>
+2. Click <b>"2D Nav Goal"</b> and send a goal. <br>
+
+
 ## Repository Structure
 
 ```text
